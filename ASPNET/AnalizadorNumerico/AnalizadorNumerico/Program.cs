@@ -20,53 +20,19 @@ class Program
                 case 1:
                     PedirNumeros();
                     break;
-                case 2:       
-                     double global = 0;
-                    foreach( double num in  numeros)
-                    {
-                       
-                        global = global + num;
-                        
-                    }
-                    Console.WriteLine($"La suma es de: {global}");
+                case 2:
+                    suma();
                     break;
                 case 3:
-                    double global2 = 0;
-                    int i = 0;
-                    foreach (double num in numeros)
-                    {
-
-                        i = i + 1;
-                        
-                        global = global2 + num;
-                        
-                    }
-                    double media = global2 / i;
-                    Console.WriteLine($"La media es: {media}");
+                    media();
                     break;
 
                 case 4:
-                    double minimo = double.MaxValue;
-                    foreach (double num in numeros)
-                    {
-                        if (num < minimo)
-                        {
-                            minimo = num;
-                        }
-                    }
-                    Console.WriteLine("El valor mínimo es: " + minimo);
+                   minimo();
                     break;
 
                 case 5:
-                    double maximo = double.MinValue;
-                    foreach (double num in numeros)
-                    {
-                        if (num > maximo)
-                        {
-                            maximo = num;
-                        }
-                    }
-                    Console.WriteLine("El valor máximo es: " + maximo);
+                    maximo();
                     break;
 
                 case 6:
@@ -81,8 +47,58 @@ class Program
         }
         
     }
+    public static void suma()
+    {
+        double global = 0;
+        foreach (double num in numeros)
+        {
 
+            global = global + num;
 
+        }
+        Console.WriteLine($"La suma es de: {global}");
+    }
+    public static void media()
+    {
+        double global2 = 0;
+        int i = 0;
+        foreach (double num in numeros)
+        {
+
+            i = i + 1;
+
+            global2 = global2 + num;
+
+        }
+        double media = global2 / i;
+        Console.WriteLine($"La media es: {media}");
+    }
+
+    public static void minimo()
+    {
+        double minimo = double.MaxValue;
+        foreach (double num in numeros)
+        {
+            if (num < minimo)
+            {
+                minimo = num;
+            }
+        }
+        Console.WriteLine("El valor mínimo es: " + minimo);
+    }
+
+    public static void maximo()
+    {
+        double maximo = double.MinValue;
+        foreach (double num in numeros)
+        {
+            if (num > maximo)
+            {
+                maximo = num;
+            }
+        }
+        Console.WriteLine("El valor máximo es: " + maximo);
+    }
     public static int Menu()
     {
         Console.WriteLine("(1) Leer números");
