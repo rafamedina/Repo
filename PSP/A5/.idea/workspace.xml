@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="20b72d0d-74ff-48d0-816c-de639c347f14" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/PSP.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/copilot.data.migration.agent.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/copilot.data.migration.ask.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/copilot.data.migration.ask2agent.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/copilot.data.migration.edit.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/material_theme_project_new.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A1/A1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A2/A2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A3/documento.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A4/src/metodos.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A4/src/proceso.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/copilot.data.migration.agent.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A5.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PSP.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Repaso1/Repaso1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Repaso1/src/Bicicleta.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Repaso1/src/Coche.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Repaso1/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Repaso1/src/Moto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Repaso1/src/Vehiculo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Repaso1/src/VehiculoTerrestre.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Repaso2/Repaso2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Repaso2/src/Dispositivo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Repaso2/src/DispositivoBase.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Repaso2/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Repaso2/src/Ordenador.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Repaso2/src/Telefono.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Repaso2/src/Televisor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Repaso3/Repaso3.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Repaso3/src/Abstracta/AnimalBase.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Repaso3/src/Animales/Buitre.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Repaso3/src/Animales/Caballo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Repaso3/src/Animales/Delfin.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Repaso3/src/Interfaces/Animal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Repaso3/src/Interfaces/Nadador.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Repaso3/src/Interfaces/Terrestre.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Repaso3/src/Interfaces/Volador.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Repaso3/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../error.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pruebas/pruebas.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pruebas/src/HilosBasicos.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pruebas/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pruebas/src/SimulacionProceso.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="33Cgf2GqsuNlfIy3eSLCAqoRKmT" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/Ikran/Desktop/Repo/PSP/A5/src/Main.java&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-bf35d07a577b-intellij.indexing.shared.core-IU-252.26199.169" />
+        <option value="bundled-js-predefined-d6986cc7102b-9c94529fcfe0-JavaScript-IU-252.26199.169" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="20b72d0d-74ff-48d0-816c-de639c347f14" name="Changes" comment="" />
+      <created>1758826567446</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1758826567446</updated>
+      <workItem from="1758826568501" duration="50000" />
+      <workItem from="1758827378076" duration="261000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
