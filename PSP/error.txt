@@ -1,0 +1,1 @@
+Cannot run program "notepad.exe output.txt": CreateProcess error=2, El sistema no puede encontrar el archivo especificado
